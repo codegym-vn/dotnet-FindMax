@@ -1,0 +1,11 @@
+D:\CodeGym\Bai2\dotnet-FindMax\bin\Debug\netcoreapp3.1\dotnet-FindMax.exe
+D:\CodeGym\Bai2\dotnet-FindMax\bin\Debug\netcoreapp3.1\dotnet-FindMax.deps.json
+D:\CodeGym\Bai2\dotnet-FindMax\bin\Debug\netcoreapp3.1\dotnet-FindMax.runtimeconfig.json
+D:\CodeGym\Bai2\dotnet-FindMax\bin\Debug\netcoreapp3.1\dotnet-FindMax.runtimeconfig.dev.json
+D:\CodeGym\Bai2\dotnet-FindMax\bin\Debug\netcoreapp3.1\dotnet-FindMax.dll
+D:\CodeGym\Bai2\dotnet-FindMax\bin\Debug\netcoreapp3.1\dotnet-FindMax.pdb
+D:\CodeGym\Bai2\dotnet-FindMax\obj\Debug\netcoreapp3.1\dotnet-FindMax.csprojAssemblyReference.cache
+D:\CodeGym\Bai2\dotnet-FindMax\obj\Debug\netcoreapp3.1\dotnet-FindMax.AssemblyInfoInputs.cache
+D:\CodeGym\Bai2\dotnet-FindMax\obj\Debug\netcoreapp3.1\dotnet-FindMax.AssemblyInfo.cs
+D:\CodeGym\Bai2\dotnet-FindMax\obj\Debug\netcoreapp3.1\dotnet-FindMax.dll
+D:\CodeGym\Bai2\dotnet-FindMax\obj\Debug\netcoreapp3.1\dotnet-FindMax.pdb
